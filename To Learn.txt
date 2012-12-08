@@ -1,0 +1,1 @@
+Singleton - http://msdn.microsoft.com/en-us/library/ff650316.aspx

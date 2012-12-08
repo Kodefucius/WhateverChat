@@ -76,6 +76,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AzureLocalStorageTraceListener.cs" />
+    <Compile Include="Conversation.cs" />
+    <Compile Include="WhateverChatClient.cs" />
+    <Compile Include="WhateverChatClientManager.cs" />
+    <Compile Include="WhateverChatClientState.cs" />
     <Compile Include="WhateverChatService.svc.cs">
       <DependentUpon>WhateverChatService.svc</DependentUpon>
     </Compile>
