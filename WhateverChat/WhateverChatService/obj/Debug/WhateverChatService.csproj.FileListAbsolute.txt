@@ -1,0 +1,9 @@
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\WhateverChatService.dll
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\WhateverChatService.pdb
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\WhateverChat\WhateverChat\WhateverChatService\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\WhateverChat\WhateverChat\WhateverChatService\obj\Debug\WhateverChatService.csprojResolveAssemblyReference.cache
+E:\WhateverChat\WhateverChat\WhateverChatService\obj\Debug\WhateverChatService.dll
+E:\WhateverChat\WhateverChat\WhateverChatService\obj\Debug\WhateverChatService.pdb
